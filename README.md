@@ -1,5 +1,5 @@
 # 💫 About Me:
-UMMARY<br>Third-year Computer Engineering student with strong foundations in Java, data structures, and core programming<br>concepts. Passionate about full-stack development and building scalable web and mobile applicati
+ I am Chaitanya Digambar Patil Third-year Computer Engineering student with strong foundations in Java, data structures, and core programming<br>concepts. Passionate about full-stack development and building scalable web and mobile application
 
 
 # 💻 Tech Stack:
