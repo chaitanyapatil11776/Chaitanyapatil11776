@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=Profile%20Views&color=764ABC&style=flat" />
   <img src="https://img.shields.io/github/followers/chaitanyapatil11776?label=Followers&style=flat&color=764ABC" />
-  <img src="https://visitcount.itsvg.in/api?id=chaitanyapatil11776&icon=0&color=8" alt="Visitor Count" />
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -87,5 +86,3 @@ fun_fact: "Debugs faster with coffee ☕"
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
-
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
