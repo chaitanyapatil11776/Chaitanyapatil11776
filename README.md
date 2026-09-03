@@ -41,6 +41,7 @@
 
 <table>
 <tr>
+
 <td width="55%">
 
 ### Hi, I'm Chaitanya 👋
@@ -76,6 +77,7 @@ src="https://skillicons.dev/icons?i=express,mysql,tailwind,git,github&theme=dark
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -113,7 +115,7 @@ src="https://skillicons.dev/icons?i=express,mysql,tailwind,git,github&theme=dark
 
 ---
 
-<!-- ===================== FOCUS ===================== -->
+<!-- ===================== CURRENT FOCUS ===================== -->
 
 ## ⚡ Currently Focused On
 
@@ -162,6 +164,22 @@ width="70%"
 
 ---
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+## 🟩 GitHub Contributions
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/00D9FF/chaitanyapatil11776"
+width="95%"
+alt="Chaitanya's GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
 <!-- ===================== ACHIEVEMENTS ===================== -->
 
 ## 🏆 Achievements
@@ -176,15 +194,28 @@ src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&them
 
 ---
 
-<!-- ===================== ACTIVITY ===================== -->
+<!-- ===================== ACTIVITY GRAPH ===================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyapatil11776&bg_color=0D1117&color=00D9FF&line=8B7CFF&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyapatil11776&theme=github-compact&hide_border=true&area=true&custom_title=My%20GitHub%20Activity"
 width="95%"
+alt="GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<div align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=Profile%20Views&color=00D9FF&style=for-the-badge"
 />
 
 </div>
