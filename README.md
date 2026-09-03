@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Chaitanya1177-ctrl&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=chaitanyapatil11776&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
 
@@ -58,12 +58,12 @@
 -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Chaitanya1177-ctrl&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chaitanyapatil11776&theme=dark&hide_border=false" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
   Add your links below (swap USERNAME / EMAIL / HANDLE for your own):
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaitanya1177-ctrl)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyapatil11776)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HANDLE)
 -->
