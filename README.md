@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 Third-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
+🎓 Four-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
 
 🚀 Passionate about **full-stack development** and building scalable web and mobile applications.
 
@@ -59,6 +59,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
@@ -89,4 +90,3 @@
 
 ---
 
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
