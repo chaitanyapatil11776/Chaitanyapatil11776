@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 Third-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
+🎓 Four-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
 
 🚀 Passionate about **full-stack development** and building scalable web and mobile applications.
 
