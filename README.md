@@ -1,69 +1,70 @@
-<h1 align="center">Hi there, I'm Chaitanya Digambar Patil 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Chaitanya%20Digambar%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20React%20Native&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chaitanyapatil11776&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=764ABC&center=true&vCenter=true&width=650&lines=Full-Stack+Web+%26+Mobile+Developer;MERN+Stack+%7C+React+Native;DSA+%2B+Java+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=Profile%20Views&color=764ABC&style=flat" />
+  <img src="https://img.shields.io/github/followers/chaitanyapatil11776?label=Followers&style=flat&color=764ABC" />
+  <img src="https://visitcount.itsvg.in/api?id=chaitanyapatil11776&icon=0&color=8" alt="Visitor Count" />
+</p>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 About Me
 
-🎓 Four-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
-
-🚀 Passionate about **full-stack development** and building scalable web and mobile applications.
-
-🌱 Currently sharpening my skills in the **MERN stack** and exploring **React Native** for cross-platform apps.
-
-💬 Always open to collaborating on interesting projects — feel free to reach out!
+```yaml
+name: Chaitanya Digambar Patil
+role: Computer Engineering Student (Year 4)
+focus: Full-Stack Development — Web & Mobile
+currently_building: Scalable apps with the MERN stack + React Native
+core_strengths: [Java, Data Structures & Algorithms, Problem Solving]
+open_to: Collaborations, internships, and interesting open-source projects
+fun_fact: "Debugs faster with coffee ☕"
+```
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,html,css&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
 
-**Frontend**
+| Category | Stack |
+|---|---|
+| **Languages** | Java · C · JavaScript |
+| **Frontend** | React · React Native · React Router · Context API · Tailwind CSS · Bootstrap · CSS3 |
+| **Backend** | Node.js · Express.js · Socket.io · Nodemon |
+| **Database** | MongoDB · MySQL |
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <!--
-  NOTE: The official public github-readme-stats.vercel.app instance is heavily
-  overloaded and frequently returns broken images (503 DEPLOYMENT_PAUSED / rate limits).
-  Using the "-fast" community mirror below instead, which tends to be more reliable.
-  If it ever breaks again, the most durable fix is to self-host your own free
-  instance on Vercel: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+  NOTE: Using the "-fast" mirror of github-readme-stats since the official
+  public instance is frequently overloaded and returns broken images.
+  Self-hosting your own instance is the most durable long-term fix:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 -->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&theme=radical&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaitanyapatil11776&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=chaitanyapatil11776&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
@@ -85,8 +86,6 @@
   </a>
 </p>
 
-
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 
 <p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
