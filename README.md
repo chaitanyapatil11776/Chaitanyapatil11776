@@ -59,7 +59,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
@@ -86,7 +85,8 @@
   </a>
 </p>
 
-<p align="center">  ✉️ chaitanyapatil1177@gmail.com</p>
+
 
 ---
 
+<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
