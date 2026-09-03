@@ -1,73 +1,73 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:764ba2&height=230&section=header&text=Chaitanya%20Digambar%20Patil&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20React%20Native&descAlignY=55&descSize=17" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=%3C+Full-Stack+Web+%26+Mobile+Developer+%2F%3E;Building+with+the+MERN+Stack;Exploring+React+Native;DSA+%2B+Java+%2B+Problem+Solving;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/chaitanyapatil11776?label=Followers&style=for-the-badge&color=A78BFA" />
-</p>
-
 <div align="center">
 
-[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/chaitanyapatil11776)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=3&width=800" />
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td>
 
-### 💫 About Me
-
-```yaml
-name: "Chaitanya Digambar Patil"
-role: "Computer Engineering Student (Year 4)"
-focus: "Full-Stack Development — Web & Mobile"
-stack: ["MERN", "React Native"]
-strengths: ["Java", "DSA", "Problem Solving"]
-open_to: "Collaborations, internships, open-source"
-status: "Currently debugging something 🐛"
+```
+● ● ●  chaitanya@dev-machine: ~
 ```
 
-📫 **Reach me:** chaitanyapatil1177@gmail.com
-
 </td>
-<td width="45%" valign="top" align="center">
+</tr>
+<tr>
+<td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+```bash
+$ whoami
+```
+```yaml
+name       : Chaitanya Digambar Patil
+role       : Computer Engineering Student, Year 4
+location   : India
+stack      : MERN · React Native
+strengths  : Java, Data Structures & Algorithms
+status     : compiling thoughts into code...
+```
 
 </td>
 </tr>
 </table>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=%24+building+full-stack+web+%26+mobile+apps;%24+shipping+with+the+MERN+stack;%24+exploring+react-native;%24+grinding+DSA+daily;%24+echo+%22coffee+--%3E+code%22" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=views&color=7AA2F7&style=flat-square" />
+<img src="https://img.shields.io/github/followers/chaitanyapatil11776?label=followers&style=flat-square&color=7AA2F7" />
+<img src="https://img.shields.io/badge/status-open_to_work-9ece6a?style=flat-square" />
+
+</div>
+
 ---
 
-## 🧠 Tech Stack
+### `$ cat about.md`
+
+- 🎓 Fourth-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts
+- 🚀 Passionate about **full-stack development** — building scalable web and mobile applications
+- 🌱 Currently sharpening skills in the **MERN stack**, exploring **React Native**
+- 💬 Always open to collaborating on interesting projects — reach out anytime
+
+---
+
+### `$ ls tech-stack/`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,html,css,git,github,vscode&theme=dark&perline=8" />
 </p>
 
-<details>
-<summary><b>📂 Breakdown by category</b></summary>
-<br>
-
-| Category | Stack |
-|---|---|
-| **Languages** | Java · C · JavaScript |
-| **Frontend** | React · React Native · React Router · Context API · Tailwind CSS · Bootstrap · CSS3 |
-| **Backend** | Node.js · Express.js · Socket.io · Nodemon |
-| **Database** | MongoDB · MySQL |
-
-</details>
+```bash
+frontend/    react  react-native  react-router  context-api  tailwind  bootstrap  css3
+backend/     nodejs  express  socketio  nodemon
+database/    mongodb  mysql
+languages/   java  c  javascript
+```
 
 ---
 
-## 📊 GitHub Analytics
+### `$ ./run-stats.sh`
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" />
@@ -79,41 +79,51 @@ status: "Currently debugging something 🐛"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyapatil11776&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Ship a full-stack MERN project end-to-end and deploy it live
-- 📱 Build and publish a React Native app
-- 🧩 Solve 300+ DSA problems on LeetCode
-- 🌐 Contribute to an open-source repository
-
----
-
-## 🤝 Connect With Me
-
 <p align="center">
-  <a href="mailto:chaitanyapatil1177@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/chaitanyapatil11776">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/chaitanya1177">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,50:2c5364,100:0f2027&height=130&section=footer" />
+---
 
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
+### `$ cat goals-2026.txt`
+
+```
+[ ] ship a full-stack MERN project, deployed and live
+[ ] build + publish a React Native app
+[ ] solve 300+ DSA problems on LeetCode
+[ ] land a contribution on an open-source repo
+```
+
+---
+
+### `$ cat contact.json`
+
+```json
+{
+  "email": "chaitanyapatil1177@gmail.com",
+  "github": "github.com/chaitanyapatil11776",
+  "linkedin": "linkedin.com/in/chaitanya-patil-9343b52b6",
+  "leetcode": "leetcode.com/u/chaitanya1177"
+}
+```
+
+<p align="center">
+  <a href="mailto:chaitanyapatil1177@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
+  <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="https://github.com/chaitanyapatil11776"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7AA2F7" /></a>
+  <a href="https://leetcode.com/u/chaitanya1177"><img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=7AA2F7" /></a>
+</p>
+
+<div align="center">
+
+```
+$ exit
+Process finished with exit code 0 ✔
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:1a1b26&height=3&width=800" />
