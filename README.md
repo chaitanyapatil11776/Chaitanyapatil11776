@@ -9,10 +9,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+full-stack+apps+with+MERN;Shipping+cross-platform+with+React+Native;Solving+DSA%2C+one+problem+at+a+time" alt="Typing SVG" />
 
+<img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Full--Time-58A6FF?style=for-the-badge&labelColor=1A1A2E" />
+
 <a href="mailto:chaitanyapatil1177@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6"><img src="https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 <a href="https://github.com/chaitanyapatil11776"><img src="https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
 <a href="https://leetcode.com/u/chaitanya1177"><img src="https://img.shields.io/badge/LeetCode-1A1A2E?style=for-the-badge&logo=leetcode&logoColor=58A6FF" /></a>
+<!-- Add a resume link once you have one hosted, e.g. on Drive or a portfolio site:
+<a href="#"><img src="https://img.shields.io/badge/Resume-1A1A2E?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" /></a> -->
 
 </div>
 
@@ -24,33 +28,87 @@
 
 Final-year Computer Engineering student focused on building production-quality full-stack applications. Comfortable across the stack — from designing MongoDB schemas and REST APIs to shipping responsive React frontends and cross-platform apps in React Native. Strong fundamentals in Java and Data Structures & Algorithms, with an emphasis on clean, maintainable code over quick hacks.
 
-**Currently:** exploring real-time systems with Socket.io and expanding into React Native for mobile delivery.
+**Currently exploring:** real-time systems with Socket.io, and expanding into React Native for mobile delivery.
+**Looking for:** internship or entry-level full-stack roles, and open-source collaborations.
 
 <img width="100%" src="https://img.shields.io/badge/-000000?style=flat-square&color=58A6FF" height="2" />
 
 ## 🚀 Featured Projects
 
-> Replace these with 2–3 of your strongest repos. This is the section an examiner or recruiter reads most closely — lead with impact, not just tech used.
+> Replace these with 2–3 of your strongest repos. This is the section a recruiter or examiner reads most closely — lead with the problem solved and the outcome, not just the tech used.
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Project Name** | One line on the problem it solves and the outcome (e.g. "Reduced X by Y%" or "Used by Z users"). | `React` `Node.js` `MongoDB` | [Live](#) · [Code](#) |
-| **Project Name** | One line on the problem it solves and the outcome. | `React Native` `Express` `Socket.io` | [Live](#) · [Code](#) |
-| **Project Name** | One line on the problem it solves and the outcome. | `Java` `DSA` | [Code](#) |
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🔹 Project Name**
+One line on the problem it solves and the outcome — e.g. *"Cut manual reporting time by 40% for a 20-person team."*
+
+`React` `Node.js` `MongoDB`
+
+[Live Demo](#) · [Source](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🔹 Project Name**
+One line on the problem it solves and the outcome — e.g. *"Real-time chat app used by 50+ beta testers."*
+
+`React Native` `Express` `Socket.io`
+
+[Live Demo](#) · [Source](#)
+
+</td>
+<td width="33%" valign="top">
+
+**🔹 Project Name**
+One line on what it demonstrates — e.g. *"DSA problem tracker with 150+ solved solutions and notes."*
+
+`Java` `DSA`
+
+[Source](#)
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://img.shields.io/badge/-000000?style=flat-square&color=58A6FF" height="2" />
 
 ## 🧰 Technical Skills
 
-**Languages:** Java, C, JavaScript
-**Frontend:** React, React Native, React Router, Context API, Tailwind CSS, Bootstrap, HTML5/CSS3
-**Backend:** Node.js, Express.js, Socket.io
-**Databases:** MongoDB, MySQL
-**Tools:** Git, GitHub, VS Code, Postman
+<table width="100%">
+<tr>
+<td width="20%"><b>Languages</b></td>
+<td width="80%">Java · C · JavaScript</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>React · React Native · React Router · Context API · Tailwind CSS · Bootstrap · HTML5/CSS3</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js · Express.js · Socket.io</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>MongoDB · MySQL</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Git · GitHub · VS Code · Postman</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,vscode,postman&theme=dark&perline=8" />
 </p>
+
+<img width="100%" src="https://img.shields.io/badge/-000000?style=flat-square&color=58A6FF" height="2" />
+
+## 🎓 Education
+
+**B.E. in Computer Engineering** — Final Year
+<sub>College name, expected graduation year — fill in your details</sub>
 
 <img width="100%" src="https://img.shields.io/badge/-000000?style=flat-square&color=58A6FF" height="2" />
 
@@ -63,6 +121,10 @@ Final-year Computer Engineering student focused on building production-quality f
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chaitanyapatil11776&hide_border=true&border_radius=12&background=1A1A2E&ring=58A6FF&fire=58A6FF&currStreakLabel=EAEAEA&sideNums=EAEAEA&sideLabels=EAEAEA&dates=B8B8B8&currStreakNum=EAEAEA&stroke=FFFFFF00" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=algolia&no-frame=true&no-bg=false&row=1&column=6&margin-w=8" />
 </p>
 
 <p align="center">
