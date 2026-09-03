@@ -85,7 +85,7 @@
   </a>
 </p>
 
-<p align="center">📞 +91 7821020145 &nbsp;|&nbsp; ✉️ chaitanyapatil1177@gmail.com</p>
+<p align="center"> &nbsp;|&nbsp; ✉️ chaitanyapatil1177@gmail.com</p>
 
 ---
 
