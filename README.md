@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 Four-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
+🎓 Third-year Computer Engineering student with strong foundations in **Java**, **Data Structures & Algorithms**, and core programming concepts.
 
 🚀 Passionate about **full-stack development** and building scalable web and mobile applications.
 
@@ -70,16 +70,22 @@
 
 ## 🤝 Connect With Me
 
-<!--
-  Add your links below (swap USERNAME / EMAIL / HANDLE for your own):
+<p align="center">
+  <a href="mailto:chaitanyapatil1177@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/chaitanyapatil11776">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/chaitanya1177">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyapatil11776)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/HANDLE)
--->
-
-<p align="center"><i>Add your LinkedIn, email, and other social links here to make it easy for people to reach you.</i></p>
+<p align="center">📞 +91 7821020145 &nbsp;|&nbsp; ✉️ chaitanyapatil1177@gmail.com</p>
 
 ---
 
