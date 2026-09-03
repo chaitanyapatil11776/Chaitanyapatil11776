@@ -49,9 +49,17 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  NOTE: The official public github-readme-stats.vercel.app instance is heavily
+  overloaded and frequently returns broken images (503 DEPLOYMENT_PAUSED / rate limits).
+  Using the "-fast" community mirror below instead, which tends to be more reliable.
+  If it ever breaks again, the most durable fix is to self-host your own free
+  instance on Vercel: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chaitanya1177-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
