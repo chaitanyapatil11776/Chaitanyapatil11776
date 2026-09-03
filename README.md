@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5B7B,50:B08FCE,100:D8B4E2&height=220&section=header&text=Hi,%20I'm%20Chaitanya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20building%20with%20the%20MERN%20stack%20%C2%B7%20diving%20into%20React%20Native&descAlignY=58&descSize=16&descColor=F3E8FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi,%20I'm%20Chaitanya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20building%20with%20the%20MERN%20stack%20%C2%B7%20diving%20into%20React%20Native&descAlignY=58&descSize=16&descColor=B9F5E8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=B08FCE&center=true&vCenter=true&width=700&lines=Turning+ideas+into+full-stack+products;Currently+leveling+up+in+React+Native;300%2B+DSA+problems+and+counting;Open+to+collaborations+%E2%80%94+say+hi!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+ideas+into+full-stack+products;Currently+leveling+up+in+React+Native;300%2B+DSA+problems+and+counting;Open+to+collaborations+%E2%80%94+say+hi!" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=chaitanyapatil11776&label=Profile%20Views&color=D8B4E2&style=for-the-badge&labelColor=2B2139" />
-<img src="https://img.shields.io/github/followers/chaitanyapatil11776?label=Followers&style=for-the-badge&color=D8B4E2&labelColor=2B2139" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-B08FCE?style=for-the-badge&labelColor=2B2139" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C9A7?style=for-the-badge&labelColor=0F2027" />
 
 </div>
 
@@ -18,7 +16,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 🌸 About Me
+### 🌊 About Me
 
 - 🎓 Final-year **Computer Engineering** student with a strong base in **Java**, **DSA**, and clean coding practice
 - 🛠️ Building **full-stack web & mobile products** with the **MERN stack**
@@ -46,12 +44,12 @@
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:D6E4FF,100:FDEFF9&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=4&section=header" />
 
 ### 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,html,css,git,github,vscode&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,html,css,git,github,vscode&theme=dark&perline=8" />
 </p>
 
 <div align="center">
@@ -66,7 +64,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEFF9,100:D6E4FF&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=4&section=header" />
 
 ### 🚀 Featured Projects
 
@@ -93,21 +91,21 @@ Short one-line pitch of what it does and who it's for.
 
 <p align="center"><i>👉 Pin your best repos on your GitHub profile so they surface automatically here.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:D6E4FF,100:FDEFF9&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=4&section=header" />
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&border_radius=20&bg_color=135,FDEFF9,E8DFF5&title_color=6C5B7B&icon_color=B08FCE&text_color=6C5B7B" />
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&hide_border=true&layout=compact&border_radius=20&bg_color=135,E8DFF5,D6E4FF&title_color=6C5B7B&text_color=6C5B7B" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=chaitanyapatil11776&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&border_radius=20&bg_color=135,0F2027,2C5364&title_color=00C9A7&icon_color=00C9A7&text_color=B9F5E8" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chaitanyapatil11776&hide_border=true&layout=compact&border_radius=20&bg_color=135,2C5364,0F2027&title_color=00C9A7&text_color=B9F5E8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaitanyapatil11776&hide_border=true&border_radius=20&background=135,D6E4FF,FDEFF9&ring=B08FCE&fire=D8B4E2&currStreakLabel=6C5B7B&sideNums=6C5B7B&sideLabels=6C5B7B&dates=8E7CA8&currStreakNum=6C5B7B&stroke=FFFFFF00" />
+  <img src="https://streak-stats.demolab.com?user=chaitanyapatil11776&hide_border=true&border_radius=20&background=135,0F2027,2C5364&ring=00C9A7&fire=00C9A7&currStreakLabel=B9F5E8&sideNums=B9F5E8&sideLabels=B9F5E8&dates=8FD9C4&currStreakNum=B9F5E8&stroke=FFFFFF00" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=flat&no-frame=true&no-bg=false&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=dracula&no-frame=true&no-bg=false&row=1&column=6&margin-w=8" />
 </p>
 
 <!--
@@ -117,7 +115,7 @@ Short one-line pitch of what it does and who it's for.
 <img src="https://raw.githubusercontent.com/chaitanyapatil11776/chaitanyapatil11776/output/github-contribution-grid-snake.svg" />
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEFF9,100:D6E4FF&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=4&section=header" />
 
 ### 🎯 2026 Goals
 
@@ -125,42 +123,42 @@ Short one-line pitch of what it does and who it's for.
 
 | Goal | Progress |
 |:---|:---:|
-| Ship a full-stack MERN project, deployed live | 🟪🟪⬜⬜⬜ |
-| Build and publish a React Native app | 🟪⬜⬜⬜⬜ |
-| Solve 300+ DSA problems on LeetCode | 🟪🟪🟪⬜⬜ |
+| Ship a full-stack MERN project, deployed live | 🟩🟩⬜⬜⬜ |
+| Build and publish a React Native app | 🟩⬜⬜⬜⬜ |
+| Solve 300+ DSA problems on LeetCode | 🟩🟩🟩⬜⬜ |
 | Contribute to an open-source repository | ⬜⬜⬜⬜⬜ |
 
 <sub>Update these bars manually as you make progress — small, visible wins.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:D6E4FF,100:FDEFF9&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2C5364,100:0F2027&height=4&section=header" />
 
 ### 💭 Random Dev Wisdom
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FDEFF9,100:D6E4FF&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,100:2C5364&height=4&section=header" />
 
 ### 💬 Let's Connect
 
 <p align="center">
   <a href="mailto:chaitanyapatil1177@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2B2139?style=for-the-badge&logo=gmail&logoColor=D8B4E2" />
+    <img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00C9A7" />
   </a>
   <a href="https://linkedin.com/in/chaitanya-patil-9343b52b6">
-    <img src="https://img.shields.io/badge/LinkedIn-2B2139?style=for-the-badge&logo=linkedin&logoColor=D8B4E2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00C9A7" />
   </a>
   <a href="https://github.com/chaitanyapatil11776">
-    <img src="https://img.shields.io/badge/GitHub-2B2139?style=for-the-badge&logo=github&logoColor=D8B4E2" />
+    <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=00C9A7" />
   </a>
   <a href="https://leetcode.com/u/chaitanya1177">
-    <img src="https://img.shields.io/badge/LeetCode-2B2139?style=for-the-badge&logo=leetcode&logoColor=D8B4E2" />
+    <img src="https://img.shields.io/badge/LeetCode-0F2027?style=for-the-badge&logo=leetcode&logoColor=00C9A7" />
   </a>
 </p>
 
 <p align="center">✉️&nbsp; chaitanyapatil1177@gmail.com</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D6E4FF,50:B08FCE,100:6C5B7B&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer" />
