@@ -18,13 +18,7 @@
 
 ## 🚀 About Me
 
-Hey, I'm Chaitanya — a software developer who enjoys building things and solving problems.
-
-- 🔭 Currently working on **your current project**
-- 🌱 Currently learning **your current skill**
-- 👯 Open to collaborating on **type of project**
-- 💬 Ask me about **your expertise**
-- ⚡ Fun fact: **something fun about you**
+Fourth-year Computer Engineering student with a strong foundation in Java, data structures, and core programming concepts. Experienced in independently building full-stack web and cross-platform mobile applications using the MERN stack and React Native, with a focus on REST API development, third-party API integrations, and AI-powered feature development. Comfortable working across the stack — from Node.js/Express backend services to polished frontend UI — and deliver production-ready software under agile workflows.
 
 <br/>
 
@@ -52,22 +46,6 @@ Hey, I'm Chaitanya — a software developer who enjoys building things and solvi
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyapatil11776&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/chaitanyapatil11776/chaitanyapatil11776/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
-
-<sub>⚠️ Snake animation activates once you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — instructions below.</sub>
-</div>
 
 <br/>
 
