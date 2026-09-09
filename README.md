@@ -30,21 +30,6 @@ Fourth-year Computer Engineering student with a strong foundation in Java, data 
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyapatil11776&show_icons=true&theme=dracula&hide_border=true&count_private=true&border_radius=12&bg_color=1a1b27&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyapatil11776&layout=compact&theme=dracula&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyapatil11776&theme=dracula&hide_border=true&border_radius=12&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="GitHub Streak" width="80%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyapatil11776&theme=dracula&hide_border=true&area=true&bg_color=1a1b27&color=ff79c6&line=bd93f9&point=f8f8f2" alt="Activity Graph" width="90%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FF0080,100:8E2DE2&height=120&section=footer" width="100%"/>
